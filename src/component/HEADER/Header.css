@@ -1,0 +1,19 @@
+.nav-container{
+    
+}
+.nav-bar{
+    background-color: #4c4b50;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+.nav-item .nav-link{
+    color: orange;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bold;
+}
+.navbar-brand:hover{
+    color: whitesmoke;
+}

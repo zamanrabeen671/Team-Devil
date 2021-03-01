@@ -1,0 +1,7 @@
+.ready-player-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.player-container{
+    display: flex;
+}

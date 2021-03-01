@@ -1,0 +1,36 @@
+.sold-container{
+    margin-top: 10px;
+    background-color: #4c4b50;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 3px 5px gray;
+    color: rgb(111, 236, 61);
+}
+.name-salary{
+   display: flex;
+   
+}
+.name{
+    width: 50%;
+    /* margin-right: 10px; */
+    border-right: 1px solid gray;
+    margin: 5px;
+    padding: 5px;
+    color: orange;
+}
+.salary{
+    width: 40%;
+    color: orange;
+    
+}
+li{
+    list-style: none;
+}
+.player-name{
+    color: tomato;
+    font-size: 18px;
+}
+.player-salary{
+    color: tomato;
+    font-size: 18px;
+}

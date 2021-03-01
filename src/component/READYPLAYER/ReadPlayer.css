@@ -1,0 +1,14 @@
+.player-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
+.player-div{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #4c4b50;
+    color: orange;
+    font-size: 18px;
+}
